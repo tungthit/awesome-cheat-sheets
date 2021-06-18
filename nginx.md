@@ -45,7 +45,6 @@ or
 `systemctl enable nginx`
 
 Important Nginx configuration files for Red Hat based systems.
-`
 +---------------------------------------------------+-----------------------------------------------+
 |   File Path                                       |        Description                            |
 +---------------------------------------------------+-----------------------------------------------+
@@ -56,7 +55,7 @@ Important Nginx configuration files for Red Hat based systems.
 | /etc/nginx/sites-available/[Site_Name.com.conf]   |  Store config file for other virtual hosts    |
 | /etc/nginx/sites-enabled/[Site_Name.com.conf]     |  Activated config files can be found          |
 +---------------------------------------------------+-----------------------------------------------+
-`
+
 
 Log files
 > /var/log/nginx/access.log
@@ -64,7 +63,7 @@ Log files
 
 You can control the nginx daemon by sending the signal to an nginx master process with the help of the “-s” option.
 
->$ sudo nginx -s stop     #Fast shutdown
->$ sudo nginx -s quit     #Graceful shutdown
->$ sudo nginx -s reload   #To reloading the configuration file
->$ sudo nginx -s reopen   #To reopening the log files
+> $ sudo nginx -s stop     #Fast shutdown
+> $ sudo nginx -s quit     #Graceful shutdown
+> $ sudo nginx -s reload   #To reloading the configuration file
+> $ sudo nginx -s reopen   #To reopening the log files
