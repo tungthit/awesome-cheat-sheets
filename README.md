@@ -11,8 +11,6 @@
 
 ![](./attach/git-cheat-sheet.png)
 
-- [git-flow cheatsheet created by Daniel Kummer](http://danielkummer.github.io/git-flow-cheatsheet/) : A cheatsheet on the usage of git flow
-
 ## [Vim](http://www.vim.org/)
 
 - [Graphical vi-vim Cheat Sheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html) : [[PDF Download]](http://www.glump.net/files/2012/08/vi-vim-cheat-sheet-and-tutorial.pdf)
