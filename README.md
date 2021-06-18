@@ -26,7 +26,13 @@
 ![](./attach/tmux-quick-reference-and-cheat-cheet.png)
 
 ## [Markdown](https://daringfireball.net/projects/markdown/)
-
+Table:
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+    
 ![](./attach/markdown_cheatsheet.jpg)
 
 - [UNIX / LINUX CHEAT SHEET](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
