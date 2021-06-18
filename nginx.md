@@ -63,7 +63,7 @@ Log files
 
 You can control the nginx daemon by sending the signal to an nginx master process with the help of the “-s” option.
 
-> $ sudo nginx -s stop     #Fast shutdown
-> $ sudo nginx -s quit     #Graceful shutdown
-> $ sudo nginx -s reload   #To reloading the configuration file
-> $ sudo nginx -s reopen   #To reopening the log files
+`$ sudo nginx -s stop     #Fast shutdown`
+`$ sudo nginx -s quit     #Graceful shutdown`
+`$ sudo nginx -s reload   #To reloading the configuration file`
+`$ sudo nginx -s reopen   #To reopening the log files`
