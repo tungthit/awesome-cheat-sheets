@@ -1,18 +1,18 @@
 For Debian based systems, use the apt command or apt-get command to install Nginx.
 
-* $ sudo apt install nginx
+* `$ sudo apt install nginx`
 or
-* $ sudo apt-get install nginx
+* `$ sudo apt-get install nginx`
 
 Check version
-* $ nginx -v
-* $ nginx -V
+* `$ nginx -v`
+* `$ nginx -V`
 
 How to Find Syntax Errors in the Nginx Configuration File
-* $ sudo nginx -t
+* `$ sudo nginx -t`
 
 If you want to check for a specific nginx configuration file instead of the default, use the following command.
-* $ sudo nginx -t -c /path/to/the/file
+* `$ sudo nginx -t -c /path/to/the/file`
 
 Start server
 `systemctl start nginx.service`
