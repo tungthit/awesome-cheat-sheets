@@ -9,15 +9,15 @@ Check version
 * $ nginx -V
 
 How to Find Syntax Errors in the Nginx Configuration File
-$ sudo nginx -t
+* $ sudo nginx -t
 
 If you want to check for a specific nginx configuration file instead of the default, use the following command.
-$ sudo nginx -t -c /path/to/the/file
+* $ sudo nginx -t -c /path/to/the/file
 
 Start server
-# systemctl start nginx.service
+`systemctl start nginx.service`
 or
-# systemctl start nginx
+`systemctl start nginx`
 
 Stop server
 # systemctl stop nginx.service
@@ -45,6 +45,7 @@ or
 # systemctl enable nginx
 
 Important Nginx configuration files for Red Hat based systems.
+
 +---------------------------------------------------+-----------------------------------------------+
 |   File Path                                       |        Description                            |
 +---------------------------------------------------+-----------------------------------------------+
