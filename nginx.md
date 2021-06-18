@@ -54,13 +54,9 @@ Important Nginx configuration files for Red Hat based systems.
 | /var/www/[Site_Name]                            | Create a separate directory for each domains |
 | /etc/nginx/sites-available/[Site_Name.com.conf] | Store config file for other virtual hosts    |
 | /etc/nginx/sites-enabled/[Site_Name.com.conf]   | Activated config files can be found          |
+| /var/log/nginx/access.log                       | Log files                                    |
+| /var/log/nginx/error.log                        | Log files                                    |
     
-    
-Log files
-> /var/log/nginx/access.log
-> 
-> /var/log/nginx/error.log
-
 You can control the nginx daemon by sending the signal to an nginx master process with the help of the “-s” option.
 
 `$ sudo nginx -s stop`     #Fast shutdown
