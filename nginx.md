@@ -46,17 +46,17 @@ or
 
 Important Nginx configuration files for Red Hat based systems.
 
-` /etc/nginx/nginx.conf                             |  Global config file                           `
-
-` /var/www/html                                     |  Default document root directory              `
-
-` /etc/nginx/sites-available/default                |  Sample config file for virtual host          `
-
-` /var/www/[Site_Name]                              |  Create a separate directory for each domains `
-
-` /etc/nginx/sites-available/[Site_Name.com.conf]   |  Store config file for other virtual hosts    `
-
-` /etc/nginx/sites-enabled/[Site_Name.com.conf]     |  Activated config files can be found          `
+> /etc/nginx/nginx.conf                             `  Global config file                           
+>
+> /var/www/html                                     `  Default document root directory              
+>
+> /etc/nginx/sites-available/default                `  Sample config file for virtual host          
+>
+> /var/www/[Site_Name]                              `  Create a separate directory for each domains
+>
+> /etc/nginx/sites-available/[Site_Name.com.conf]   `  Store config file for other virtual hosts    
+>
+> /etc/nginx/sites-enabled/[Site_Name.com.conf]     `  Activated config files can be found          
 
 
 Log files
@@ -66,9 +66,9 @@ Log files
 
 You can control the nginx daemon by sending the signal to an nginx master process with the help of the “-s” option.
 
-`$ sudo nginx -s stop     #Fast shutdown`
+`$ sudo nginx -s stop`     #Fast shutdown
 
-`$ sudo nginx -s quit     #Graceful shutdown`
+`$ sudo nginx -s quit`     #Graceful shutdown
 
 `$ sudo nginx -s reload   #To reloading the configuration file`
 
