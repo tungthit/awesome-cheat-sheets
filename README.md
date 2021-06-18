@@ -36,10 +36,11 @@ Table:
 ![](./attach/markdown_cheatsheet.jpg)
 
 - [UNIX / LINUX CHEAT SHEET](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
-`/var/log/wtmp`
-utmp, wtmp, btmp and variants such as utmpx, wtmpx and btmpx are files on Unix-like systems that keep track of all logins and logouts to the system.
+
 ![](./attach/Unix_Linux_Cheat_Sheet.png)
 
+`/var/log/wtmp`
+utmp, wtmp, btmp and variants such as utmpx, wtmpx and btmpx are files on Unix-like systems that keep track of all logins and logouts to the system.
 - [Shell Scripting Cheat Sheet by Steve Parker](http://steve-parker.org/sh/cheatsheet.pdf) : [[PDF Download]](http://steve-parker.org/sh/cheatsheet.pdf)
 
 ![](./attach/simple_bash_cheatsheet.jpg)
