@@ -5,6 +5,12 @@
 - [Markdown](#markdown)
 - [Tmux](#tmux)
 
+## [UNIX / LINUX CHEAT SHEET](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+
+![](./attach/Unix_Linux_Cheat_Sheet.png)
+
+`/var/log/wtmp`
+utmp, wtmp, btmp and variants such as utmpx, wtmpx and btmpx are files on Unix-like systems that keep track of all logins and logouts to the system.
 
 ## [Git](https://git-scm.com/)
 - [Git cheat sheet, take two by Jan Krüger](https://jan-krueger.net/git-cheat-sheet-take-two/) : [[PDF Download]](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
@@ -35,12 +41,6 @@ Table:
     
 ![](./attach/markdown_cheatsheet.jpg)
 
-- [UNIX / LINUX CHEAT SHEET](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
-
-![](./attach/Unix_Linux_Cheat_Sheet.png)
-
-`/var/log/wtmp`
-utmp, wtmp, btmp and variants such as utmpx, wtmpx and btmpx are files on Unix-like systems that keep track of all logins and logouts to the system.
 - [Shell Scripting Cheat Sheet by Steve Parker](http://steve-parker.org/sh/cheatsheet.pdf) : [[PDF Download]](http://steve-parker.org/sh/cheatsheet.pdf)
 
 ![](./attach/simple_bash_cheatsheet.jpg)
