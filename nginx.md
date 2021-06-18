@@ -59,6 +59,7 @@ Important Nginx configuration files for Red Hat based systems.
 
 Log files
 > /var/log/nginx/access.log
+> 
 > /var/log/nginx/error.log
 
 You can control the nginx daemon by sending the signal to an nginx master process with the help of the “-s” option.
