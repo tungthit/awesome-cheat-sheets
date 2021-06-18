@@ -66,6 +66,14 @@ Important Nginx configuration files for Red Hat based systems.
 | /etc/nginx/sites-available/[Site_Name.com.conf] | Store config file for other virtual hosts |
 | /etc/nginx/sites-enabled/[Site_Name.com.conf] | Activated config files can be found |
 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+    
+    
 Log files
 > /var/log/nginx/access.log
 > 
