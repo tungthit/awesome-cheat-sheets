@@ -1,9 +1,13 @@
 # Linux
+`ls -la` listing + view permissions
 `pwd` print working directory
 `/var/log/wtmp`
 utmp, wtmp, btmp and variants such as utmpx, wtmpx and btmpx are files on Unix-like systems that keep track of all logins and logouts to the system.
 
 `nmap` nmap -v -A nccsoft.vn : Check open port, OS, ... prevent penetrate attack
+
+https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/
+
 ## [UNIX / LINUX CHEAT SHEET](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 
 ![](./attach/Unix_Linux_Cheat_Sheet.png)
