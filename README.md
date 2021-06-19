@@ -1,10 +1,5 @@
-## Table of Contents
-
-- [Git](#git)
-- [Vim](#vim)
-- [Markdown](#markdown)
-- [Tmux](#tmux)
-
+# Linux
+`pwd` print working directory
 `/var/log/wtmp`
 utmp, wtmp, btmp and variants such as utmpx, wtmpx and btmpx are files on Unix-like systems that keep track of all logins and logouts to the system.
 
